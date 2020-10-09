@@ -1,0 +1,17 @@
+.demo{
+    border-style: solid;
+    border-color: black;
+    width: 100px;
+    height: 100px;
+}
+
+#cssRocks{
+    border-style: dotted;
+    border-color: green;
+    width: 100px;
+    height: 100px;
+}
+
+#styleDiff{
+    color: red;
+}
